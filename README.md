@@ -12,7 +12,7 @@ npm install
         "require": "./index.cjs",
         "import": "./Source/Cesium.js"
     },
-    "./widgets.css": "./Source/Widgets/widgets.css",
+    "./widgets.css": "./Source/Widgets/widgets.css"
 },
 ```
 

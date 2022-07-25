@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 <template>
    <div class="mapbox">
     <div id="cesiumContainer"></div>
@@ -11,7 +12,6 @@
 <script>
 import "cesium/widgets.css";
 import * as Cesium from 'cesium';
-// import $ from 'jquery';
 //引入镜头切换方法
 import ViewTab from "@/js/view/cream";
 import Header from "./Header.vue";
