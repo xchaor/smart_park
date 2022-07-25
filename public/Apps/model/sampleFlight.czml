@@ -1,0 +1,77 @@
+[
+  {
+    "id": "document",
+    "name": "SampleFlight",
+    "version": "1.0",
+    "clock": {
+      "interval": "20170711T16Z/20170711T1620Z",
+      "currentTime": "20170711T16Z",
+      "multiplier": 2,
+      "range": "LOOP_STOP",
+      "step": "SYSTEM_CLOCK_MULTIPLIER"
+    }
+  },
+  {
+    "id": "Aircraft/Aircraft1",
+    "name": "Aircraft1",
+    "availability": "20170711T16Z/20170711T162001.65996549888041Z",
+    "billboard": {
+      "color": {
+        "rgba": [
+          0,
+          255,
+          255,
+          255
+        ]
+      },
+      "eyeOffset": {
+        "cartesian": [
+          0,
+          0,
+          0
+        ]
+      },
+      "horizontalOrigin": "CENTER",
+      "image": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAYAAADED76LAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAjSURBVChTYyAa/EcDUGEIgIphAKg0XRSAAFQMDqDChAADAwDC13+BJ+0oDwAAAABJRU5ErkJgggAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+      "pixelOffset": {
+        "cartesian2": [
+          0,
+          0
+        ]
+      },
+      "scale": 1,
+      "show": true,
+      "verticalOrigin": "CENTER"
+    },
+    "path": {
+      "show": [
+        {
+          "interval": "20170711T16Z/20170711T162001.65996549900046Z",
+          "boolean": true
+        }
+      ],
+      "width": 1,
+      "material": {
+        "solidColor": {
+          "color": {
+            "rgba": [
+              0,
+              255,
+              255,
+              255
+            ]
+          }
+        }
+      },
+      "resolution": 1200
+    },
+    "position": {
+      "interpolationAlgorithm": "LAGRANGE",
+      "interpolationDegree": 1,
+      "epoch": "20170711T16Z",
+      "cartesian":  [0,-2556966.6112476103,5007003.926606829,3002084.4450899656,
+                     91.86139701440516,-2557041.9503523805,5006741.542998421,3002455.371837968,
+                      93.60663214893611,1335509,2557066.5462373635,5006681.838689241,3002533.460020682]
+    }
+  }
+]

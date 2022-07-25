@@ -1,0 +1,11 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{ "type": "Feature", "geometry": { "type": "Point","id":"0", "name": "设备告警", "coordinates": [121.60884608427997, 31.253592092214912,0.04661284764535462]}, "properties": { "LEVEL":"紧急", "TIMESTART": "2020-12-07 11:27:20", "TIMEEND": "2020-12-07 12:12:20","NAME": "电源设备告警"}},
+		{ "type": "Feature", "geometry": { "type": "Point","id":"1", "name": "设备告警", "coordinates": [121.60870669936509, 31.25424404811135,0.05188044597987772]}, "properties": { "LEVEL":"紧急", "TIMESTART": "2020-12-03 07:43:14", "TIMEEND": "2020-12-04 06:15:20","NAME": "电源设备告警"}},
+		{ "type": "Feature", "geometry": { "type": "Point","id":"2", "name": "安防告警", "coordinates": [121.60908956463584, 31.254156941576742,0.05694828026779997]}, "properties": { "LEVEL":"紧急", "TIMESTART": "2020-12-01 06:32:20", "TIMEEND": "2020-12-02 18:35:10","NAME": "电源设备告警"}},
+		{ "type": "Feature", "geometry": { "type": "Point","id":"3", "name": "能源告警", "coordinates": [121.60857794154049, 31.254714410340366,0.05555433905298507]}, "properties": { "LEVEL":"紧急", "TIMESTART": "2020-12-07 15:54:20", "TIMEEND": "2020-12-08 17:35:45","NAME": "电源设备告警"}},
+		{ "type": "Feature", "geometry": { "type": "Point","id":"4", "name": "能源告警", "coordinates": [121.60785613611175, 31.2541259441753,0.04603428281446407]}, "properties": { "LEVEL":"紧急", "TIMESTART": "2020-04-04 11:27:20", "TIMEEND": "2020-04-07 05:07:20","NAME": "电源设备告警"}},
+		{ "type": "Feature", "geometry": { "type": "Point","id":"5", "name": "安防告警", "coordinates": [121.60745339289387, 31.253529114388204,0.03408508546409023]}, "properties": { "LEVEL":"紧急", "TIMESTART": "2020-05-12 13:15:20", "TIMEEND": "2020-05-17 17:15:20","NAME": "电源设备告警"}}
+	]
+}

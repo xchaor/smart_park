@@ -1,0 +1,15 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature", "geometry": { "type": "Point","id":"0", "status": "正常", "coordinates": [121.60857110721888, 31.25470748917622,0.03146724723822101]}, "properties": { "LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101"}},
+    { "type": "Feature", "geometry": { "type": "Point","id":"1", "status": "正常", "coordinates": [121.6090842341153, 31.254379890128526,0.03541088756768519]}, "properties": {"LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101"}},
+    { "type": "Feature", "geometry": { "type": "Point","id":"2", "status": "故障", "coordinates": [121.60788014660258, 31.254125995498658,0.010198986340662687]}, "properties": {"LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101"}},
+    { "type": "Feature", "geometry": { "type": "Point","id":"3", "status": "正常", "coordinates": [121.6074002208387, 31.253546650554615,0.005602822071380351]}, "properties": { "LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101"}},
+    { "type": "Feature", "geometry": { "type": "Point","id":"4", "status": "正常", "coordinates": [121.60772248824728, 31.253092295458792, 0.15742434189262103]}, "properties": {"LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101"}},
+    { "type": "Feature", "geometry": { "type": "Point","id":"5", "status": "正常", "coordinates": [121.60738893954132, 31.252881732483722,0.1655040558917099]}, "properties": { "LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101" }},
+    { "type": "Feature", "geometry": { "type": "Point","id":"6", "status": "正常", "coordinates": [121.60652617940491, 31.25253345649902,0.0059058732446162655]}, "properties": {"LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101" }},
+    { "type": "Feature", "geometry": { "type": "Point","id":"7", "status": "正常", "coordinates": [121.60663804297256, 31.2520914748664,0.01036331042974262]}, "properties": {"LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101" }},
+    { "type": "Feature", "geometry": { "type": "Point","id":"8", "status": "检修", "coordinates": [121.60678385799703, 31.25138139632531,0.02661562011793907]}, "properties": {"LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101" }},
+    { "type": "Feature", "geometry": { "type": "Point","id":"9", "status": "正常", "coordinates": [121.606838855868, 31.251806464183133,0.03304613529870114]}, "properties": {"LOCAL":"智慧园区1号楼入口监控点1","id":"2123000101" }}
+  ]
+}

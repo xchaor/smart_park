@@ -1,0 +1,12 @@
+{
+	"type": "FeatureCollection",
+	"features": [
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [121.61055310709756, 31.249725494814086] }, "properties": { "FID": 0, "GUID": "377998f7-3e5f-45fa-91b3-f029bc520fc1", "icon":"renlian",  "NAME": "renlian_001", "TYPE": "点数据", "IMEI": "864814046272984" } },
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [121.61055393550475, 31.249719039836872] }, "properties": { "FID": 1, "GUID": "377998f7-3e5f-45fa-91b3-f029bc520fc2", "icon":"renlian", "NAME": "renlian_002", "TYPE": "点数据", "IMEI": "868744035477482" } },
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [121.60714942980786, 31.25141864701768] }, "properties": { "FID": 2, "GUID": "377998f7-3e5f-45fa-91b3-f029bc520fc3", "icon":"ludeng", "NAME": "ludeng_001", "TYPE": "点数据", "IMEI": "865118044710014" } },
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [121.60673708550783, 31.251495353036027] }, "properties": { "FID": 3, "GUID": "377998f7-3e5f-45fa-91b3-f029bc520fc4", "icon":"lajitong", "NAME": "lajitong001", "TYPE": "点数据", "IMEI": "869505040643148" } },
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [121.60674512144783, 31.251314451763754] }, "properties": { "FID": 4, "GUID": "377998f7-3e5f-45fa-91b3-f029bc520fc5",  "icon":"dici", "NAME": "dici_001", "TYPE": "点数据", "IMEI": "867726033785074" } },
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [121.60679082850216, 31.251323067619385] }, "properties": { "FID": 5, "GUID": "377998f7-3e5f-45fa-91b3-f029bc520fc6",  "icon":"dici", "NAME": "dici_002", "TYPE": "点数据", "IMEI": "867726033781768" } },
+		{ "type": "Feature", "geometry": { "type": "Point", "coordinates": [121.606835261419,  31.25133224554161] }, "properties": { "FID": 6, "GUID": "377998f7-3e5f-45fa-91b3-f029bc520fc7",  "icon":"dici", "NAME": "dici_003", "TYPE": "点数据", "IMEI": "867726033780455" } }
+	]
+}
